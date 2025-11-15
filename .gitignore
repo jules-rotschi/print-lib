@@ -1,0 +1,7 @@
+/.vs
+/PrinterLib
+/x64
+
+PrinterLib.vcxproj.user
+
+Client.cpp
