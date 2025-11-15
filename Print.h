@@ -3,7 +3,7 @@
 #include <iostream>
 #include <string>
 
-namespace Prt
+namespace PL
 {
 	inline void Print(const std::string& str)
 	{
